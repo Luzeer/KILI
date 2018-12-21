@@ -1,0 +1,61 @@
+
+{
+
+
+
+
+ "type": "FeatureCollection",
+
+
+ "features": [
+
+
+   {
+
+
+     "type": "Feature",
+
+
+     "properties": {
+
+
+       "title": "Рамен",
+
+
+       "description": "Рамен -  японское блюдо с пшеничной лапшой. Фактически представляет собой недорогой фастфуд, обладающий большой энергетической ценностью и хорошим вкусом.",
+
+
+       "marker-symbol": "rail",
+
+
+       "marker-size": "medium",
+
+
+       "marker-color": "#3dbe25"
+
+
+     },
+
+
+     "geometry": {
+
+
+       "type": "Point",
+
+
+       "coordinates": [
+
+
+         139.725064,
+
+
+         35.660234
+
+
+       ]
+
+
+     }
+
+
+   }
